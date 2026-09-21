@@ -2,7 +2,7 @@
 
 <hr>
   <h1 align="center">Sampurasun👋I'm Luthfi</h1>
-</hr>
+<hr>
 
 ## About Me 🥀
 
