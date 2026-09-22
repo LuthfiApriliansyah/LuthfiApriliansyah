@@ -8,9 +8,9 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="https://github.com/LuthfiApriliansyah/My-project/blob/42e9da1f1c8279c050c66ff630f585a2770eeeb1/3237030979314456.jpg">
+      <img src="https://github.com/LuthfiApriliansyah/My-project/blob/42e9da1f1c8279c050c66ff630f585a2770eeeb1/3237030979314456.jpg" size="40%">
     </td>
-    <td width="50%">
+    <td width="60%">
       <h2>MIlkjhdsag</h2>
       <p>Tes</p>
     </td>
