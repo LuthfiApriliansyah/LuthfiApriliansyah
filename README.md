@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      ![img alt](https://github.com/LuthfiApriliansyah/My-project/blob/42e9da1f1c8279c050c66ff630f585a2770eeeb1/3237030979314456.jpg)
+      <img scr="3237030979314456.jpg">
     </td>
     <td width="60%">
       <h2>MIlkjhdsag</h2>
